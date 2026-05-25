@@ -1,3 +1,5 @@
 # Bike-taxi-Business-analytical-project
 This is my first SQL project where I collected a dataset and solved over 25 SQL queries to gain insights into business operations and improve my SQL skills.
-<img width="1286" height="697" alt="Screenshot 2026-05-25 215540" src="https://github.com/user-attachments/assets/b40c3fe8-636a-4e18-ad2d-f5f61ecc4f95" />
+
+<img width="1493" height="846" alt="Screenshot_25-5-2026_221610_" src="https://github.com/user-attachments/assets/d47ce262-2aed-4d65-a39b-fc0c0b410686" />
+
